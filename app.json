@@ -62,7 +62,7 @@
         "ALIVE_NAME": {
             "description": "اتركها كما هي",
             "required": true,
-            "value": "SOURCE ELPOP..🎶"
+            "value": "SOURCE ELPOP"
         }
     },
     "addons": [],
